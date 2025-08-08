@@ -9,6 +9,8 @@ All models in this repository are either:
 • **Vertex-colored**  
 • **Fully textured** with PBR materials (mostly in 1K or 2K resolution)  
 
+(readable in name)
+
 As a **Roblox developer**, most of the models are optimized accordingly.
 
 **Download & File Formats**
